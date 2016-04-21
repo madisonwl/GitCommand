@@ -11,6 +11,13 @@ git add .   把当前目录下所有修改过的文件添加至仓库缓存区
 git commit -m "Flag"
 
 #小结
-添加文件到git仓库分两步：
+添加文件到git仓库分两步：  
 1. git add <filename>  
 2. git commit
+
+#查看状态
+git status  
+#查看不同
+git diff <filename>
+
+
