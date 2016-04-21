@@ -12,5 +12,5 @@ git commit -m "Flag"
 
 #小结
 添加文件到git仓库分两步：
-1. git add <filename>
+1. git add <filename>  
 2. git commit
